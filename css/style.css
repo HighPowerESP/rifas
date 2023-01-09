@@ -1,0 +1,13 @@
+.rifa {
+    float: left;
+    margin: 5px;
+    border: 1px solid grey;
+    background-color: white;
+    width: 150px;
+    padding: 5px;
+    text-align: center;
+}
+
+.rifaTitle{
+    background-color: darkgrey;
+}
